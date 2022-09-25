@@ -1,0 +1,1061 @@
+body {
+  background-color: #f5f1eb;
+  text-align: center;
+  font-family: 'DREAM CAPS';
+}
+
+h1 {
+  color: #222;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.2em;
+  font-size: 2.4em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: .06em;
+  white-space: pre-wrap;
+}
+
+h2 {
+  color: #222;
+  font-weight: 100;
+  font-size: 12px;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  line-height: 1em;
+  white-space: pre-wrap;
+}
+
+p {
+  color: #a39e9e;
+  margin: 10px 500px;
+  letter-spacing: .06em;
+}
+
+.top-container .logo {
+  width: 160px;
+  margin: 70px 0 0;
+}
+
+.top-container nav ul {
+  margin: 0 296px;
+}
+
+.top-container nav ul li {
+  padding: 30px 36.4px;
+  color: #111;
+}
+
+.top-container nav ul li a {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.top-container nav ul li :hover {
+  color: #a39e9e;
+}
+
+.top-container button {
+  margin-left: 20px;
+}
+
+.carousel {
+  margin: 0 250px;
+}
+
+.mid-container {
+  margin: 70px 0;
+}
+
+.bottom-container {
+  padding: 20px 100px;
+}
+
+.bottom-container img {
+  margin: 20px;
+  height: 377.325px;
+  width: 398.337px;
+}
+
+.bottom-container span{
+  color: #575757;
+  text-align: left;
+  font-size: 13px;
+  margin-left: 20px;
+}
+
+.enquire-mid-container img {
+  width: 790px;
+  margin: 15px;
+}
+
+.Enquire-Form {
+  margin: 20px 450px;
+  text-align: left;
+  color: #575757;
+}
+
+h6 {
+  color: #575757;
+}
+
+.copyright h6 {
+  position: absolute;
+  right: 100px;
+  padding-bottom: 60px;
+}
+
+.Enquire-Form label {
+  cursor: pointer;
+}
+
+/* About Section */
+.collab .best {
+  padding: 20px 450px;
+}
+
+.collab .best img {
+  height: 200px;
+}
+
+.collab .winner {
+  padding: 20px 350px;
+}
+
+.collab .winner img {
+  height: 350px;
+}
+
+.collab .vogue {
+  padding: 20px 360px;
+}
+
+.collab .vogue img {
+  height: 160px;
+}
+
+.collab .brides {
+  padding: 20px 450px;
+}
+
+.collab .brides img {
+  height: 50px;
+}
+
+.collab .worbz {
+  padding: 20px 400px;
+}
+
+.collab .worbz img {
+  height: 90px;
+  padding: 0;
+  margin: 0;
+}
+
+.collab .col {
+  padding: 0;
+  margin: 0;
+}
+
+.about {
+  padding: 100px 300px;
+}
+
+.about img {
+  height: 600px;
+}
+
+.about p {
+  padding: 10px;
+}
+
+/* Testimonials section  */
+.testimonials img {
+  width: 75rem;
+  margin: 1px;
+}
+
+/* Stories Section */
+.stories .story {
+  padding: 30px 0;
+}
+
+.stories .story img {
+  width: 1200px;
+}
+
+.stories .story .content {
+  padding: 30px 160px;
+  text-align: left;
+}
+
+.stories .story .content a {
+  text-decoration: none;
+  color: #b3b3b3;
+}
+
+.stories .story .content span {
+  color: #b3b3b3;
+}
+
+.likes {
+  position: relative;
+  left: 570px;
+  bottom: 60px;
+}
+
+/* Store Section */
+.store a {
+  text-decoration: none;
+  color: #b3b3b3;
+  margin: 10px;
+}
+
+.items {
+  padding: 20px 40px;
+}
+
+.items img {
+  height: 350px;
+}
+
+.items a {
+  text-decoration: none;
+  color: #222;
+}
+
+.sale {
+  position: absolute;
+  top: 15px;
+  right: 0;
+  background: #111;
+  padding: 6px 8px;
+  color: #fff;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+
+.actual-price {
+  text-decoration: line-through;
+  opacity: .7;
+}
+
+@media (max-width: 1250px) {
+  .top-container .navbar .nav {
+    margin-left: 147px;
+    margin-right: 147px;
+  }
+
+  .enquire-mid-container p {
+    margin: 30px 20px;
+  }
+
+  .enquire-mid-container img {
+    width: 700px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 200px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 50px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 50px;
+    height: 500px;
+  }
+
+  .collab .best {
+    padding: 20px 400px;
+  }
+  .collab .best img {
+    height: 180px;
+  }
+
+  .collab .winner {
+    padding: 20px 200px;
+  }
+
+  .collab .winner img {
+    height: 300px;
+  }
+
+  .collab .vogue {
+    padding: 20px 360px;
+  }
+
+  .collab .vogue img {
+    height: 100px;
+  }
+
+  .collab .brides {
+    padding: 20px 350px;
+  }
+
+  .collab .brides img {
+    height: 40px;
+  }
+
+  .collab .worbz {
+    padding: 20px 250px;
+  }
+
+  .collab .worbz img {
+    height: 90px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 65rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 1000px;
+  }
+  .stories .story .content {
+    padding: 30px 100px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 450px;
+    bottom: 200px;
+  }
+  .mid-container p{
+    padding: 10px 150px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding: 25px 100px;
+  }
+
+  .bottom-container img {
+    height: 274px;
+    width: 290px;
+    margin: 30px 1px 10px;
+  }
+  .copyright-name{
+    font-size: 15px;
+    margin-right: 35px;
+  }
+}
+@media (max-width: 1000px) {
+  .top-container .navbar .nav {
+    margin: 26px;
+  }
+
+
+  .enquire-mid-container img {
+    width: 500px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 100px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px 100px;
+    height: 350px;
+  }
+
+  .collab .best {
+    padding: 20px 100px;
+  }
+  .collab .best img {
+    height: 120px;
+  }
+
+  .collab .winner {
+    padding: 20px 80px;
+  }
+
+  .collab .winner img {
+    height: 180px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 70px;
+  }
+
+  .collab .brides {
+    padding: 20px 130px;
+  }
+
+  .collab .brides img {
+    height: 30px;
+  }
+
+  .collab .worbz {
+    padding: 20px 100px;
+  }
+
+  .collab .worbz img {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 30rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 500px;
+  }
+  .stories .story .content {
+    padding: 30px 45px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+  }
+  .carousel{
+    position: relative;
+    right: 190px;
+    width: 900px;
+    margin-top: 10px;
+  }
+  .mid-container p{
+    padding: 10px 100px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding:  10px 100px;
+  }
+
+  .bottom-container img {
+    height: 176px;
+    width: 184px;
+    margin: 30px 1px 20px;
+  }
+  .bottom-container span{
+    margin-left: 0px;
+    font-size: 11px;
+  }
+}
+@media (max-width: 950px) {
+  .top-container .navbar .nav {
+    margin: 3px;
+  }
+
+  .enquire-mid-container p {
+    margin: 30px 70px;
+  }
+
+  .enquire-mid-container img {
+    width: 600px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 200px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px;
+    height: 400px;
+  }
+
+  .collab .best {
+    padding: 20px 280px;
+  }
+  .collab .best img {
+    height: 160px;
+  }
+
+  .collab .winner {
+    padding: 20px 185px;
+  }
+
+  .collab .winner img {
+    height: 250px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 60px;
+  }
+
+  .collab .brides {
+    padding: 20px 250px;
+  }
+
+  .collab .brides img {
+    height: 40px;
+  }
+
+  .collab .worbz {
+    padding: 20px 160px;
+  }
+
+  .collab .worbz img {
+    height: 80px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 50rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 800px;
+  }
+  .stories .story .content {
+    padding: 30px 65px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 350px;
+    bottom: 200px;
+  }
+  .carousel{
+    width: 825px;
+  }
+  .mid-container p{
+    padding: 10px 150px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding:  10px 40px;
+  }
+
+  .bottom-container img {
+    height: 250px;
+    width: 264px;
+    margin: 10px 1px;
+  }
+  .copyright-name{
+    font-size: 13px;
+  }
+}
+@media (max-width: 850px) {
+  .top-container .navbar .nav {
+    margin: 10px 60px;
+  }
+  .enquire-mid-container p {
+    margin: 30px 70px;
+  }
+
+  .enquire-mid-container img {
+    width: 600px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 200px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px;
+    height: 350px;
+  }
+
+  .collab .best {
+    padding: 20px 200px;
+  }
+  .collab .best img {
+    height: 160px;
+  }
+
+  .collab .winner {
+    padding: 20px 135px;
+  }
+
+  .collab .winner img {
+    height: 230px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 80px;
+  }
+
+  .collab .brides {
+    padding: 20px 200px;
+  }
+
+  .collab .brides img {
+    height: 40px;
+  }
+
+  .collab .worbz {
+    padding: 20px 150px;
+  }
+
+  .collab .worbz img {
+    height: 70px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 40rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 700px;
+  }
+  .stories .story .content {
+    padding: 30px 65px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+  }
+  .carousel{
+    position: relative;
+    right: 130px;
+    width: 600px;
+  }
+  .mid-container p{
+    padding: 10px 150px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding:  10px 30px;
+  }
+
+  .bottom-container img {
+    height: 240px;
+    width: 251px;
+    margin: 10px 1px;
+  }
+  .copyright-name{
+    font-size: 13px;
+  }
+}
+@media (max-width: 700px) {
+  .top-container .navbar .nav {
+    margin: 10px 0;
+  }
+  .enquire-mid-container p {
+    margin: 30px 90px;
+  }
+
+  .enquire-mid-container img {
+    width: 500px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 100px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px 100px;
+    height: 350px;
+  }
+
+  .collab .best {
+    padding: 20px 150px;
+  }
+  .collab .best img {
+    height: 150px;
+  }
+
+  .collab .winner {
+    padding: 20px 100px;
+  }
+
+  .collab .winner img {
+    height: 210px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 60px;
+  }
+
+  .collab .brides {
+    padding: 20px 150px;
+  }
+
+  .collab .brides img {
+    height: 35px;
+  }
+
+  .collab .worbz {
+    padding: 20px 100px;
+  }
+
+  .collab .worbz img {
+    height: 60px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 30rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 600px;
+  }
+  .stories .story .content {
+    padding: 30px 45px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+  }
+  .carousel{
+    position: relative;
+    right: 150px;
+    width: 500px;
+    margin-top: 10px;
+  }
+  .mid-container p{
+    padding: 10px 150px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding:  10px 10px;
+  }
+
+  .bottom-container img {
+    height: 200px;
+    width: 209px;
+    margin: 10px 1px;
+  }
+  .bottom-container span{
+    margin-left: 0px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 600px) {
+  .top-container .navbar .nav {
+    margin: 10px 0;
+  }
+  .enquire-mid-container p {
+    margin: 30px 90px;
+  }
+
+  .enquire-mid-container img {
+    width: 500px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 100px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px 100px;
+    height: 350px;
+  }
+
+  .collab .best {
+    padding: 20px 100px;
+  }
+  .collab .best img {
+    height: 150px;
+  }
+
+  .collab .winner {
+    padding: 20px 100px;
+  }
+
+  .collab .winner img {
+    height: 160px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 60px;
+  }
+
+  .collab .brides {
+    padding: 20px 120px;
+  }
+
+  .collab .brides img {
+    height: 30px;
+  }
+
+  .collab .worbz {
+    padding: 20px 60px;
+  }
+
+  .collab .worbz img {
+    height: 60px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 30rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 600px;
+  }
+  .stories .story .content {
+    padding: 30px 45px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+  }
+  .carousel{
+    position: relative;
+    right: 150px;
+    width: 380px;
+    margin-top: 10px;
+  }
+
+  .mid-container p{
+    padding: 10px 150px;
+    margin: 0;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+    padding:  10px 20px;
+  }
+
+  .bottom-container img {
+    height: 150px;
+    width: 154px;
+    margin: 10px 1px;
+  }
+  .bottom-container span{
+    margin-left: 0px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 550px) {
+  button{
+    margin: 20px;
+  }
+  .top-container .navbar .nav {
+    margin: 10px 0;
+  }
+  .enquire-mid-container p {
+    margin: 30px 90px;
+  }
+
+  .enquire-mid-container img {
+    width: 500px;
+  }
+
+  .Enquire-Form {
+    margin: 30px 100px;
+  }
+
+  .top-container ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .about {
+    margin: 40px;
+    padding: 0;
+  }
+
+  .about img {
+    margin: 40px 100px;
+    height: 350px;
+  }
+
+  .collab .best {
+    padding: 20px 70px;
+  }
+  .collab .best img {
+    height: 150px;
+  }
+
+  .collab .winner {
+    padding: 20px 80px;
+  }
+
+  .collab .winner img {
+    height: 160px;
+  }
+
+  .collab .vogue {
+    padding: 20px 0px;
+  }
+
+  .collab .vogue img {
+    height: 60px;
+  }
+
+  .collab .brides {
+    padding: 20px 120px;
+  }
+
+  .collab .brides img {
+    height: 30px;
+  }
+
+  .collab .worbz {
+    padding: 20px 30px;
+  }
+
+  .collab .worbz img {
+    height: 60px;
+    padding: 0;
+    margin: 0;
+  }
+  .testimonials img {
+    width: 30rem;
+    margin: 1px;
+  }
+  .stories .story {
+    padding: 30px 0px;
+  }
+  .stories .story img{
+    padding: 30px 0px;
+    width: 500px;
+  }
+  .stories .story .content {
+    padding: 30px 18px;
+    text-align: left;
+  }
+  .likes {
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+  }
+  .carousel{
+    position: relative;
+    right: 150px;
+    width: 330px;
+    margin-top: 10px;
+  }
+  .mid-container h1{
+    margin: 20px;
+  }
+
+  .mid-container p{
+    padding: 10px 80px;
+    margin: 0px;
+  }
+  .bottom-container {
+    margin: 20px 0px;
+  }
+
+  .bottom-container img {
+    height: 200px;
+    width: 209px;
+    margin: 10px 148px;
+  }
+  .bottom-container span{
+    margin-left: 148px;
+    font-size: 12px;
+  }
+}
